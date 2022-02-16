@@ -1,0 +1,94 @@
+{
+  "liveServer.settings.donotShowInfoMsg": true,
+  "git.suggestSmartCommit": false,
+  "terminal.integrated.shell.windows": "C:\\WINDOWS\\System32\\cmd.exe",
+  "explorer.confirmDragAndDrop": false,
+  "liveServer.settings.donotVerifyTags": true,
+  "explorer.confirmDelete": false,
+  "window.zoomLevel": 0,
+  "window.title": "${dirty}${activeEditorShort}${separator}${rootName}",
+  "terminal.integrated.rendererType": "dom",
+  "[javascriptreact]": { "editor.defaultFormatter": "esbenp.prettier-vscode" },
+  "[html]": {
+    "editor.defaultFormatter": "vscode.html-language-features"
+  },
+  "[python]": { "editor.defaultFormatter": "ms-python.python" },
+  "python.testing.pytestEnabled": true,
+  "liveServer.settings.CustomBrowser": "firefox",
+  "editor.fontLigatures": true,
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "editor.fontFamily": "Fira Code Light",
+  "editor.fontSize": 15,
+  "cSpell.userWords": [
+    "Coric",
+    "Minimalistic",
+    "Unmounting",
+    "noopener",
+    "noreferrer",
+    "organised",
+    "todos",
+    "uimini",
+    "zustand"
+  ],
+  "files.associations": {
+    "*.html": "html",
+    "*.js": "javascript"
+  },
+  "editor.formatOnPaste": true,
+  "editor.formatOnType": true,
+  "emmet.includeLanguages": {
+    "django-html": "html",
+    "vue-html": "html"
+  },
+  "workbench.editorAssociations": {
+    "*.ipynb": "jupyter-notebook"
+  },
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "dbaeumer.vscode-eslint",
+  "eslint.format.enable": true,
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  },
+  "cSpell.enableFiletypes": ["vue"],
+  "editor.linkedEditing": true,
+  "workbench.productIconTheme": "Default",
+
+  "workbench.iconTheme": "material-icon-theme",
+  "randomThemeSwitcher.themeList": [
+    "2077",
+    "Abyss",
+    "Bisexual (Dark)",
+    "CodeSandbox Black",
+    "Just Black",
+    "LaserWave",
+    "LaserWave High Contrast",
+    "Night Owl",
+    "Non-binary (Dark)",
+    "Pansexual (Dark)",
+    "Pink as Heck",
+    "Polysexual (Dark)",
+    "Synthax"
+  ],
+  "python.autoComplete.addBrackets": true,
+  "kite.showWelcomeNotificationOnStartup": false,
+  "hediet.vscode-drawio.local-storage": "eyIuZHJhd2lvLWNvbmZpZyI6IntcImxhbmd1YWdlXCI6XCJcIixcImN1c3RvbUZvbnRzXCI6W10sXCJsaWJyYXJpZXNcIjpcImdlbmVyYWxcIixcImN1c3RvbUxpYnJhcmllc1wiOltcIkwuc2NyYXRjaHBhZFwiXSxcInBsdWdpbnNcIjpbXSxcInJlY2VudENvbG9yc1wiOltdLFwiZm9ybWF0V2lkdGhcIjpcIjI0MFwiLFwiY3JlYXRlVGFyZ2V0XCI6ZmFsc2UsXCJwYWdlRm9ybWF0XCI6e1wieFwiOjAsXCJ5XCI6MCxcIndpZHRoXCI6ODI3LFwiaGVpZ2h0XCI6MTE2OX0sXCJzZWFyY2hcIjp0cnVlLFwic2hvd1N0YXJ0U2NyZWVuXCI6dHJ1ZSxcImdyaWRDb2xvclwiOlwiI2QwZDBkMFwiLFwiZGFya0dyaWRDb2xvclwiOlwiIzZlNmU2ZVwiLFwiYXV0b3NhdmVcIjp0cnVlLFwicmVzaXplSW1hZ2VzXCI6bnVsbCxcIm9wZW5Db3VudGVyXCI6MCxcInZlcnNpb25cIjoxOCxcInVuaXRcIjoxLFwiaXNSdWxlck9uXCI6ZmFsc2UsXCJ1aVwiOlwiXCJ9In0=",
+  "editor.mouseWheelZoom": true,
+  "files.eol": "\n",
+  "python.analysis.completeFunctionParens": true,
+  "workbench.colorTheme": "Pink as Heck",
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "notebook.cellToolbarLocation": {
+    "default": "right",
+    "jupyter-notebook": "left"
+  },
+  "diffEditor.ignoreTrimWhitespace": false,
+  "editor.inlineSuggest.enabled": true,
+  "github.copilot.enable": {
+    "*": true,
+    "yaml": false,
+    "plaintext": false,
+    "markdown": true
+  },
+  "vscode-pets.position": "explorer",
+  "vscode-pets.petType": "rubber-duck"
+}
